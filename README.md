@@ -1,9 +1,16 @@
-![logo](https://github.com/AryanDahiya00/AryanDahiya00/blob/main/11275915.jpg)
+![MasterHead](https://github.com/AryanDahiya00/AryanDahiya00/blob/main/11275915.jpg)
 <h1 align="center">Hi 👋, I'm Aryan Dahiya</h1>
 <h3 align="center">A passionate engineer with interests in deep learning, machine learning, and software development.</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryandahiya00&label=Profile%20views&color=0e75b6&style=flat" alt="aryandahiya00" /> </p>
+
+- 🌱 I’m currently learning *Deeplearning*
+
+- 📫 How to reach me *aryand475@gmail.com*
+
+- ⚡ Fun fact *I can crack a joke faster than a compiler can compile!*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryandahiya00&show_icons=true&locale=en&layout=compact" alt="aryandahiya00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryandahiya00&show_icons=true&locale=en" alt="aryandahiya00" /></p>
-
