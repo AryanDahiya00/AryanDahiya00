@@ -9,7 +9,6 @@
 
 - 📫 How to reach me *aryand475@gmail.com*
 
-- ⚡ Fun fact: *I can crack a joke faster than a compiler can compile!*
 
 
 <h3 align="left">Connect with me:</h3>
