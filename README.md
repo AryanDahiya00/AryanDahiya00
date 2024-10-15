@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryandahiya00&label=Profile%20views&color=0e75b6&style=flat" alt="aryandahiya00" /> </p>
 
-- 🌱 I’m currently learning *Deeplearning*
+- 🌱 Currently diving into: *The depths of Deep Learning!*
 
 - 📫 How to reach me *aryand475@gmail.com*
 
