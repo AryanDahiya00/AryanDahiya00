@@ -9,6 +9,8 @@
 
 - 📫 How to reach me *aryand475@gmail.com*
 
+- 📄 [Resume](https://drive.google.com/file/d/1qwRJUYpoSkfC-A5V9yPLMJHfhY7Ww_HU/view?usp=sharing)  
+
 
 
 <h3 align="left">Connect with me:</h3>
