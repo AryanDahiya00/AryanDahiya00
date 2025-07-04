@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *aryand475@gmail.com*
 
-- 📄 [Resume](https://drive.google.com/file/d/1Bv-IrGqZqr7_XtfIHpPOnQWhRSP_WBJo/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1YpVetQGKWyVuJrTXz991PGnQSe9r9J_n/view?usp=sharing)
 
 
 
