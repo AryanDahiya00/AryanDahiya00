@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *aryand475@gmail.com*
 
-- 📄 [Resume](https://drive.google.com/file/d/1YpVetQGKWyVuJrTXz991PGnQSe9r9J_n/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1YpVetQGKWyVuJrTXz991PGnQSe9r9J_n/view?usp=sharing) 💼[Porfolio](https://myportfolio-1-jbgj.onrender.com/)
 
 
 
